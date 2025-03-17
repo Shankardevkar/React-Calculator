@@ -20,7 +20,6 @@ An elegant and minimalistic iOS-style calculator built using **React**. This pro
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/your-username/ios-calculator.git
-cd ios-calculator](https://github.com/Shankardevkar/React-Calculator.git
 ```
 
 ### 2️⃣ Install Dependencies
