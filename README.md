@@ -1,12 +1,50 @@
-# React + Vite
+# iOS-Style Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An elegant and minimalistic iOS-style calculator built using **React**. This project replicates the look and feel of the iOS calculator while providing basic arithmetic functionalities.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Beautiful **iOS-inspired UI**
+- Perform **basic arithmetic operations** (Addition, Subtraction, Multiplication, Division)
+- **Responsive design** for mobile and desktop
+- **Keyboard support** for fast input
+- Clear button to reset calculations
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **React** - Frontend library
+- **CSS** - Styling for the UI
+- **Hooks** - Managing state with `useState`
 
-## Expanding the ESLint configuration
+## 📷 Preview
+![iOS Calculator UI](https://your-image-url.com)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 Installation & Usage
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/your-username/ios-calculator.git
+cd ios-calculator
+```
+
+### 2️⃣ Install Dependencies
+```sh
+npm install
+```
+
+### 3️⃣ Run the App
+```sh
+npm start
+```
+The app will be available at **http://localhost:3000**
+
+## 🎯 Future Enhancements
+- Dark mode support
+- Scientific calculator features
+- Animations & transitions for a smoother experience
+
+## 🤝 Contributing
+Feel free to fork this repository and submit pull requests to improve the project!
+
+## 📜 License
+This project is licensed under the **MIT License**.
+
+---
+Made with ❤️ by Shankar
