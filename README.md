@@ -14,14 +14,13 @@ An elegant and minimalistic iOS-style calculator built using **React**. This pro
 - **CSS** - Styling for the UI
 - **Hooks** - Managing state with `useState`
 
-## 📷 Preview
-![iOS Calculator UI](https://your-image-url.com)
+
 
 ## 💻 Installation & Usage
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/your-username/ios-calculator.git
-cd ios-calculator
+cd ios-calculator](https://github.com/Shankardevkar/React-Calculator.git
 ```
 
 ### 2️⃣ Install Dependencies
